@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDalvAmueN6MoOTdaKZ4WEqFdHseJLoDRE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>760475798687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.foodAppFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>foodappfirebase-7a670</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodappfirebase-7a670.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:760475798687:ios:a2abb4a6cb060c2ac9a6aa</string>
+</dict>
+</plist>
